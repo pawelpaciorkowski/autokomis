@@ -1,0 +1,12 @@
+---------------------
+Klienci AUTO KOMISU
+---------------------
+Indeks: 1
+Imie: karol
+Nazwisko: Nowak
+Kwota: 12345
+Marka: lamborgini
+Model: urus
+Rocznik: 2147483647
+Przebieg: 11
+
